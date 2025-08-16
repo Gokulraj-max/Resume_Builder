@@ -66,7 +66,7 @@ easy-resume-builder/
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/your-username/easy-resume-builder.git
+git clone https://github.com/Gokulraj-max/Resume_Builder.git
 ```
 
 ### 2) Move into the project
