@@ -62,7 +62,7 @@ easy-resume-builder/
 
 ---
 
-## 🛠️ Installation & Setup
+## 🛠️ Setup
 
 ### 1) Clone the repository
 ```bash
